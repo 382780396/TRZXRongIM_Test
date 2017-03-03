@@ -24,6 +24,25 @@ PODS:
   - ReactiveCocoa/no-arc (2.5)
   - ReactiveCocoa/UI (2.5):
     - ReactiveCocoa/Core
+  - RongCloudIM (2.8.6):
+    - RongCloudIM/CallKit (= 2.8.6)
+    - RongCloudIM/CallLib (= 2.8.6)
+    - RongCloudIM/IMKit (= 2.8.6)
+    - RongCloudIM/IMLib (= 2.8.6)
+    - RongCloudIM/RedPacket (= 2.8.6)
+    - RongCloudIM/Sticker (= 2.8.6)
+  - RongCloudIM/CallKit (2.8.6):
+    - RongCloudIM/CallLib
+    - RongCloudIM/IMKit
+  - RongCloudIM/CallLib (2.8.6):
+    - RongCloudIM/IMLib
+  - RongCloudIM/IMKit (2.8.6):
+    - RongCloudIM/IMLib
+  - RongCloudIM/IMLib (2.8.6)
+  - RongCloudIM/RedPacket (2.8.6):
+    - RongCloudIM/IMKit
+  - RongCloudIM/Sticker (2.8.6):
+    - RongCloudIM/IMKit
   - SDWebImage (4.0.0):
     - SDWebImage/Core (= 4.0.0)
   - SDWebImage/Core (4.0.0)
@@ -40,6 +59,7 @@ DEPENDENCIES:
   - MJExtension
   - MJRefresh
   - ReactiveCocoa (~> 2.5)
+  - RongCloudIM (~> 2.8.6)
   - SDWebImage
   - TRZXDIYRefresh
   - TRZXKit
@@ -51,12 +71,13 @@ SPEC CHECKSUMS:
   MJExtension: 5932755f451458eefa24239358817f8d291240c7
   MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
   ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  RongCloudIM: f35630e60f7d393ea93b04d4cd6152c9191b8d05
   SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
   TRZXDIYRefresh: a89e7cf1658ff7d57aad081c596c2a9cf137dcf2
   TRZXKit: af6dc2bcca593585d079d59ca10c8912ddc81b56
   TRZXNetwork: d6ce75a420218ed4b6b95f10220442f175947125
   YYCache: 8105b6638f5e849296c71f331ff83891a4942952
 
-PODFILE CHECKSUM: 868487896740018b1738853b7843ef4d6594c50e
+PODFILE CHECKSUM: 1970a1f9065b13e8dab49bdb826a6c0212ede400
 
 COCOAPODS: 1.2.0

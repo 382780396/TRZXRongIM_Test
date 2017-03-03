@@ -12,6 +12,7 @@ def pods
   pod 'MJExtension'
   pod 'Masonry'
   pod 'SDWebImage'
+  pod 'RongCloudIM', '~> 2.8.6’
 
 
   pod 'TRZXDIYRefresh' 
