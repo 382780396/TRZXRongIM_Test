@@ -7,8 +7,10 @@ use_frameworks!
 def pods
 
   pod 'ReactiveCocoa', '~> 2.5'
-
-
+  pod 'MJRefresh'
+  pod 'MJExtension'
+  pod 'Masonry'
+  pod 'SDWebImage'
 
 end
 
