@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "8.0"
   s.ios.deployment_target = '8.0'
   s.source       = { :git => "https://github.com/382780396/TRZXRongIM_Test.git", :tag => "0.0.7" } 
-  s.source_files  = "TRZXRongIM_Test", "TRZXRongIM_Test/TRZXRongIM_Test/*.{h,m}"
+  s.source_files  = "TRZXRongIM_Test", "TRZXRongIM_Test/TRZXRongIM_Test/*.{h,m,xib,storyboard}”
   s.requires_arc = true
   s.dependency "ReactiveCocoa", "~> 2.5"
   s.dependency "MJRefresh"
