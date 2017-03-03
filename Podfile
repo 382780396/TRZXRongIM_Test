@@ -16,6 +16,7 @@ def pods
 
   pod 'TRZXDIYRefresh' 
   pod 'TRZXNetwork'
+  pod 'TRZXKit' 
 
 end
 

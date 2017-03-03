@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>AFNetworking.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>MJExtension.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -39,20 +44,30 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>TRZXKit.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>TRZXNetwork.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>YYCache.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>02132C12D8CE12C8B6A70B1A3D133502</key>
+		<key>379922897BCF0E5E7633D16A871B8602</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>0DEBCE0621B7FA741350134ED6918573</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>49C5D154C2A32FD6F307635FE6D37942</key>
+		<key>4B0C9888B9A8AC20E0AC9251BF43506D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -62,12 +77,37 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>5F232A1377B84F63FD8C54C4B91B6688</key>
+		<key>5FDB47460AAB78D9ADD5415921F6DE73</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9716875F3719457A6F3AF2C703F9771D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AB0E34AAAE95387688477E93ED9802C2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B4A28A18485AFF51177FEB70724486F9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CF671F7E57B92905F1CC91D036D6B4A7</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
 		<key>D52144DE9D7255DE912490FF5A806573</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D8741AEC754F82CEB2E009265A32EB6D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
