@@ -13,11 +13,13 @@ def pods
   pod 'Masonry'
   pod 'SDWebImage'
   pod 'RongCloudIM', '~> 2.8.6'
-
+  pod 'AMap3DMap' #3D地图SDK
+  pod 'AMapSearch' #搜索服务SDK
+  pod 'AMapLocation' #定位SDK
 
   pod 'TRZXDIYRefresh' 
   pod 'TRZXNetwork'
-  pod 'TRZXKit',  '~> 0.0.7'
+  pod 'TRZXKit'
 
 end
 
