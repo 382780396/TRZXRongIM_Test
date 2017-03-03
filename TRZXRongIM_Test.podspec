@@ -15,9 +15,5 @@ Pod::Spec.new do |s|
   s.dependency "Masonry"
   s.dependency "SDWebImage"
   s.dependency "TRZXDIYRefresh"
-
-  s.resource_bundles = {
-    'TRZXDIYRefresh' => ['Pods/TRZXDIYRefresh/*.png']
-  }                                       #资源文件地址
-
+  s.dependency "TRZXNetwork"
 end
