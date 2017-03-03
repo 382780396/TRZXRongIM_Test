@@ -12,6 +12,8 @@ PODS:
   - SDWebImage (4.0.0):
     - SDWebImage/Core (= 4.0.0)
   - SDWebImage/Core (4.0.0)
+  - TRZXDIYRefresh (0.0.1):
+    - MJRefresh
 
 DEPENDENCIES:
   - Masonry
@@ -19,6 +21,7 @@ DEPENDENCIES:
   - MJRefresh
   - ReactiveCocoa (~> 2.5)
   - SDWebImage
+  - TRZXDIYRefresh
 
 SPEC CHECKSUMS:
   Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
@@ -26,7 +29,8 @@ SPEC CHECKSUMS:
   MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
   ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
   SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  TRZXDIYRefresh: a89e7cf1658ff7d57aad081c596c2a9cf137dcf2
 
-PODFILE CHECKSUM: bb7cba3624c6db31b4a70e99790005e452ec0120
+PODFILE CHECKSUM: 04b87e0f1dfebad29812260f8d89cec7b26567e2
 
 COCOAPODS: 1.2.0

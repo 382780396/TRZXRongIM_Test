@@ -1,5 +1,6 @@
 inhibit_all_warnings!
 source 'https://github.com/CocoaPods/Specs.git'
+source 'https://github.com/TRZXDev/TRZX_Repositories.git'
 platform :ios, "8.0"
 use_frameworks!
 
@@ -11,6 +12,9 @@ def pods
   pod 'MJExtension'
   pod 'Masonry'
   pod 'SDWebImage'
+
+
+  pod 'TRZXDIYRefresh' 
 
 end
 
