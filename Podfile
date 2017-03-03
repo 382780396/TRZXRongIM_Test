@@ -12,12 +12,12 @@ def pods
   pod 'MJExtension'
   pod 'Masonry'
   pod 'SDWebImage'
-  pod 'RongCloudIM', '~> 2.8.6’
+  pod 'RongCloudIM', '~> 2.8.6'
 
 
   pod 'TRZXDIYRefresh' 
   pod 'TRZXNetwork'
-  pod 'TRZXKit' 
+  pod 'TRZXKit',  '~> 0.0.7'
 
 end
 
